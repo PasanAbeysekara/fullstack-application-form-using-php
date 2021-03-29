@@ -1,0 +1,20 @@
+.formField {
+    padding: 40px;
+    background-color: bisque;
+    width: 344px;
+    margin-left: 425px;
+    border-radius: 23px;
+    margin-top: 179px;
+}
+input[type="text"] {
+    width: 252px;
+}
+input[type="password"] {
+    width: 252px;
+}
+input[type="email"] {
+    width: 252px;
+}
+input[type="phone"] {
+    width: 153px;
+}
